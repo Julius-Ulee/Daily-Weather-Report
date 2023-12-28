@@ -3,7 +3,7 @@ name: Update README with Weather
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* */3 * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   update-readme:
