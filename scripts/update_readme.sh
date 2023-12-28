@@ -53,7 +53,7 @@ git config --global user.email "action@github.com"
 git config --global user.name "GitHub Action"
 
 git add README.md
-git commit -m "🐙Update README with dynamic content date +'%Y-%m-%d %H:%M:%S %Z'"
+git commit -m "🐙Update README with dynamic content `date +'%Y-%m-%d %H:%M:%S %Z'`"
 git pull origin main
 
 git push origin main
