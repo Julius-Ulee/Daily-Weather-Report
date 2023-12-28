@@ -30,7 +30,7 @@ temp_max_celsius=$(kelvin_to_celsius $temp_max_kelvin)
 
 icon_url="http://openweathermap.org/img/w/${icon_code}.png"
 
-echo "# <h1 align="center"><img height="50" src="images/cloud.png"> Daily Weather <img height="50" src="images/cloud.png"></h1>" > README.md
+echo "# <h1 align="center"><img height="40" src="images/cloud.png"> Daily Weather <img height="40" src="images/cloud.png"></h1>" > README.md
 echo -e "<h3 align="center">🕒 Indonesian Time(UTC +07:00): <u>$time</u> (🤖Automated)</h3>\n" >> README.md
 echo -e "<table align="center">" >> README.md
 echo -e "<tr>" >> README.md
