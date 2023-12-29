@@ -1,19 +1,19 @@
 # <h1 align=center><img height=40 src=images/cloud.png> Daily Weather Report <img height=40 src=images/cloud.png></h1>
-<h3 align=center>🕒 Indonesian Time(UTC+7.00): <u>2023-12-29 16:54:40 WIB</u> (🤖Automated)</h3>
+<h3 align=center>🕒 Indonesian Time(UTC+7.00): <u>2023-12-29 17:12:18 WIB</u> (🤖Automated)</h3>
 
 <table align=center>
 <tr>
-<td align=center><b>Depok</b><br><img src=images/thermometer.png height=18> <b>30.18°C</b><br><img src='https://openweathermap.org/img/w/11d.png' height='50'><br><b>Thunderstorm</b><br><b>(thunderstorm with light rain)</b><br><b>Feels Like: 35.48°C</b></td>
+<td align=center><b>Depok</b><br><img src=images/thermometer.png height=18> <b>30.10°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>(light rain)</b><br><b>Feels Like: 37.10°C</b></td>
 </tr>
 <td>
 <table>
 <tr>
-<td align=center><img src=images/fast.png height=25><br>Minimum<br>Temperature:<br><b>28.68°C</b></td>
+<td align=center><img src=images/fast.png height=25><br>Minimum<br>Temperature:<br><b>29.40°C</b></td>
 <td align=center><img src=images/fast.png height=25><br>Maximum<br>Temperature:<br><b>30.91°C</b></td>
 </tr>
 <tr>
-<td align=center><img src=images/humidity.png height=25><br>Humidity:<br><b>70%</b></td>
-<td align=center><img src=images/atmospheric.png height=25><br>Pressure:<br><b>1007 hPa</b></td>
+<td align=center><img src=images/humidity.png height=25><br>Humidity:<br><b>88%</b></td>
+<td align=center><img src=images/atmospheric.png height=25><br>Pressure:<br><b>1003 hPa</b></td>
 </tr>
 <tr>
 <td align=center><img src=images/air-flow.png height=25><br>Wind Speed:<br><b>2.57 m/s</b></td>
