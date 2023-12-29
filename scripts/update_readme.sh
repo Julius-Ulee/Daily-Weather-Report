@@ -55,7 +55,7 @@ echo -e "<td align="center"><img src="images/fast.png" height="25"><br>Maximum<b
 echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
 echo -e "<td align="center"><img src="images/humidity.png" height="25"><br>Humidity:<br><b>${humidity}%</b></td>" >> README.md
-echo -e "<td align="center"><img src="images/atmospheric.png" height="25"><br>Pressure:<br><b>${pressure} hPa</b></td>" >> README.md
+echo -e "<td align="center"><img src="images/atmospheric.png" height="25"><br>Atmospheric<br>Pressure:<br><b>${pressure} hPa</b></td>" >> README.md
 echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
 echo -e "<td align="center"><img src="images/air-flow.png" height="25"><br>Wind Speed:<br><b>${wind_speed} m/s</b></td>" >> README.md
