@@ -34,6 +34,7 @@ pressure=$(echo "$weather_info" | jq -r '.main.pressure')
 visibility=$(echo "$weather_info" | jq -r '.visibility')
 wind_deg=$(echo "$weather_info" | jq -r '.wind.deg')
 gust_speed=$(echo "$weather_info" | jq -r '.wind.gust // empty')
+wind_speed=$(echo $weather_info | jq -r '.wind.speed // empty')
 
 temp_min_celsius=$(kelvin_to_celsius ${temp_min_kelvin:-0})
 temp_max_celsius=$(kelvin_to_celsius ${temp_max_kelvin:-0})
@@ -66,7 +67,7 @@ echo -e "<td align='center'><img src='images/humidity.png' height='25'><br>Humid
 echo -e "<td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>${pressure:-N/A} hPa</b></td>" >> README.md
 echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
-echo -e "<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Gust Speed:<br><b>${gust_speed:-N/A} m/s</b></td>" >> README.md
+echo -e "<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Gust Speed:<br><b>${wind_speed:-N/A} m/s (${gust_speed:-N/A} m/s)</b></td>" >> README.md
 echo -e "<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>${wind_deg:-N/A}°</b></td>" >> README.md
 echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
