@@ -11,8 +11,9 @@ kelvin_to_celsius() {
 }
 
 time=$(date +'%Y-%m-%d %H:%M:%S %Z')
-city="Depok"
-weather_info=$(curl -s "http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${OPENWEATHERMAP_API_KEY}")
+city="Pasir Gunung Selatan"
+city_encoded=${city// /%20}
+weather_info=$(curl -s "http://api.openweathermap.org/data/2.5/weather?q=${city_encoded}&appid=${OPENWEATHERMAP_API_KEY}")
 
 latitude=$(echo "$weather_info" | jq -r '.coord.lat')
 longitude=$(echo "$weather_info" | jq -r '.coord.lon')
