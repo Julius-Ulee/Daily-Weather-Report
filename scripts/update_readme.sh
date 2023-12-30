@@ -54,7 +54,7 @@ echo "# <h1 align='center'><img height='40' src='images/cloud.png'> Daily Weathe
 echo -e "<h3 align='center'>🕒 Indonesian Time(UTC$(printf "%+.2f" "$(bc <<< "scale=2; $timezone / 3600")")): <u>$time</u> (🤖Automated)</h3>\n" >> README.md
 echo -e "<table align='center'>" >> README.md
 echo -e "<tr>" >> README.md
-echo -e "<td align='center'><b>${city}</b><br><b>Latitude: ${coord_lat:-N/A} Longitude: ${coord_lon:-N/A}</b><br><img src='images/thermometer.png' height='18'> <b>${temperature_celsius:-N/A}°C</b><br><img src='${icon_url}' height='50'><br><b>$condition</b><br><b>($condition1)</b><br><b>Feels Like: ${feels_like_celsius:-N/A}°C</b></td>" >> README.md
+echo -e "<td align='center'><img src='images/placeholder.png' height='18'> <b>${city}</b><br><b>Latitude: ${coord_lat:-N/A} Longitude: ${coord_lon:-N/A}</b><br><img src='images/thermometer.png' height='18'> <b>${temperature_celsius:-N/A}°C</b><br><img src='${icon_url}' height='50'><br><b>$condition</b><br><b>($condition1)</b><br><b>Feels Like: ${feels_like_celsius:-N/A}°C</b></td>" >> README.md
 echo -e "</tr>" >> README.md
 echo -e "<td>" >> README.md
 echo -e "<table>" >> README.md
