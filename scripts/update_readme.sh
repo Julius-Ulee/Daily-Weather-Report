@@ -35,6 +35,8 @@ visibility=$(echo "$weather_info" | jq -r '.visibility')
 wind_deg=$(echo "$weather_info" | jq -r '.wind.deg')
 gust_speed=$(echo "$weather_info" | jq -r '.wind.gust // empty')
 wind_speed=$(echo $weather_info | jq -r '.wind.speed // empty')
+rainfall=$(echo "$weather_info" | jq -r '.rain."1h"')
+rainfall_mm=$(echo "scale=2; $rainfall * 25.4" | bc)
 
 temp_min_celsius=$(kelvin_to_celsius ${temp_min_kelvin:-0})
 temp_max_celsius=$(kelvin_to_celsius ${temp_max_kelvin:-0})
@@ -58,6 +60,9 @@ echo -e "<td align='center'><img src='images/placeholder.png' height='18'> <b>${
 echo -e "</tr>" >> README.md
 echo -e "<td>" >> README.md
 echo -e "<table>" >> README.md
+echo -e "<tr>" >> README.md
+echo -e "<td align="center" colspan="2"><img src="images/rain.png" height="25"><br>Rainfall: <b>${rainfall_mm:-0} Millimeters</b></td>" >> README.md
+echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
 echo -e "<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>${temp_min_celsius:-0}°C</b></td>" >> README.md
 echo -e "<td align='center'><img src='images/fast.png' height='25'><br>Maximum<br>Temperature:<br><b>${temp_max_celsius:-0}°C</b></td>" >> README.md
