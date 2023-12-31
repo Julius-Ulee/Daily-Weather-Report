@@ -1,9 +1,9 @@
 # <h1 align='center'><img height='40' src='images/cloud.png'> Daily Weather Report <img height='40' src='images/cloud.png'></h1>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-01 04:09:20 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-01 05:10:01 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>26.14°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 26.14°C</b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>26.09°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 26.09°C</b></td>
 </tr>
 <td>
 <table>
@@ -19,8 +19,8 @@
 <td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>1002 hPa</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>0.37 m/s</b><br>Wind Gust Speed:<br><b>0.68 m/s</b></td>
-<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>95°</b></td>
+<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>1 m/s</b><br>Wind Gust Speed:<br><b>1.11 m/s</b></td>
+<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>137°</b></td>
 </tr>
 <tr>
 <td align='center'><img src='images/cloudy.png' height='25'><br>Cloudiness:<br><b>100%</b></td>
