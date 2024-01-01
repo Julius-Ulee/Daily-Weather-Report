@@ -1,9 +1,9 @@
 # <h1 align='center'><img height='35' src='images/cloud.png'> Daily Weather Report <img height='35' src='images/cloud.png'></h1>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-02 02:35:17 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-02 02:38:12 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>27.88°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 34.05°C<br><b>Wind Direction: Southwest</b></b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>27.86°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 33.99°C<br><b>Wind Direction: Southwest</b></b></td>
 </tr>
 <td>
 <table>
