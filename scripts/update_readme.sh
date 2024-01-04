@@ -153,6 +153,8 @@ done
 
 echo -e "</tr>" >> README.md
 echo -e "</table>" >> README.md
+echo -e "<li>Powered by: <a href="https://github.com/Julius-Ulee/Daily-Weather-Report">Daily-Weather-Report</a></li>" >> README.md
+echo -e "<li><a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li>" >> README.md
 
 git config --global user.email "action@github.com"
 git config --global user.name "GitHub Action"
