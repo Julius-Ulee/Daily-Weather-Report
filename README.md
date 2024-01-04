@@ -1,26 +1,26 @@
 # <h1 align='center'><img height='35' src='images/cloud.png'> Daily Weather Report <img height='35' src='images/cloud.png'></h1>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-04 13:13:04 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-04 14:09:08 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>31.35°C</b><br><img src='https://openweathermap.org/img/w/03d.png' height='50'><br><b>Clouds</b><br><b>(scattered clouds)</b><br><b>Feels Like: 38.35°C<br><b>Wind Direction: West</b></b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>29.80°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>(moderate rain)</b><br><b>Feels Like: 36.80°C<br><b>Wind Direction: West-Northwest</b></b></td>
 </tr>
 <td>
 <table>
 <tr>
-<td align=center colspan=2><img src=images/rain.png height=25><br>Rainfall: <b>0 Millimeters</b></td>
+<td align=center colspan=2><img src=images/rain.png height=25><br>Rainfall: <b>6.85 Millimeters</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>30.17°C</b></td>
-<td align='center'><img src='images/fast.png' height='25'><br>Maximum<br>Temperature:<br><b>32.68°C</b></td>
+<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>28.97°C</b></td>
+<td align='center'><img src='images/fast.png' height='25'><br>Maximum<br>Temperature:<br><b>31.07°C</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/humidity.png' height='25'><br>Humidity:<br><b>91%</b></td>
-<td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>1005 hPa</b></td>
+<td align='center'><img src='images/humidity.png' height='25'><br>Humidity:<br><b>87%</b></td>
+<td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>1004 hPa</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>2.57 m/s</b><br>Wind Gust Speed:<br><b>0 m/s</b></td>
-<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>260°</b></td>
+<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>5.14 m/s</b><br>Wind Gust Speed:<br><b>0 m/s</b></td>
+<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>300°</b></td>
 </tr>
 <tr>
 <td align='center'><img src='images/cloudy.png' height='25'><br>Cloudiness:<br><b>40%</b></td>
@@ -35,8 +35,8 @@
 <h2 align=center><img src=images/clock.png height=25> Next 24 Hours</h2>
 <table align=center>
 <tr>
-<td align=center><b>29.55°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>16:00</b></td>
-<td align=center><b>26.74°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>19:00</b></td>
+<td align=center><b>28.51°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>16:00</b></td>
+<td align=center><b>26.23°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>19:00</b></td>
 <td align=center><b>24.49°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>22:00</b></td>
 <td align=center><b>24.61°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>01:00</b></td>
 <td align=center><b>24.63°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>04:00</b></td>
