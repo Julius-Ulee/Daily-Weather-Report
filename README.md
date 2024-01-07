@@ -2,11 +2,11 @@
 <p align=center><img align=center height='80' src=https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png></p>
 
 <p align=center><img src=https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg> <img src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg> <img height='20' src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png></p>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-08 01:11:20 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-08 02:07:21 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>25.77°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 26.91°C<br><b>Wind Direction: South-Southwest</b></b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>25.31°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 26.40°C<br><b>Wind Direction: Southwest</b></b></td>
 </tr>
 <td>
 <table>
@@ -19,11 +19,11 @@
 </tr>
 <tr>
 <td align='center'><img src='images/humidity.png' height='25'><br>Humidity:<br><b>96%</b></td>
-<td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>1010 hPa</b></td>
+<td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>1009 hPa</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>1.31 m/s</b><br>Wind Gust Speed:<br><b>2.01 m/s</b></td>
-<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>201°</b></td>
+<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>0.67 m/s</b><br>Wind Gust Speed:<br><b>1.07 m/s</b></td>
+<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>226°</b></td>
 </tr>
 <tr>
 <td align='center'><img src='images/cloudy.png' height='25'><br>Cloudiness:<br><b>100%</b></td>
@@ -38,8 +38,8 @@
 <h2 align=center><img src=images/clock.png height=25> Next 24 Hours</h2>
 <table align=center>
 <tr>
-<td align=center><b>25.75°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>04:00</b></td>
-<td align=center><b>25.98°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>07:00</b></td>
+<td align=center><b>25.44°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>04:00</b></td>
+<td align=center><b>25.82°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>07:00</b></td>
 <td align=center><b>29.19°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>10:00</b></td>
 <td align=center><b>30.21°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>13:00</b></td>
 <td align=center><b>28.00°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>16:00</b></td>
