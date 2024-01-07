@@ -97,7 +97,7 @@ forecast_24h_info=$(curl -s "http://api.openweathermap.org/data/2.5/forecast?q=$
 
 echo "# <h1 align='center'><img height='35' src='images/cloud.png'> Daily Weather Report <img height='35' src='images/cloud.png'></h1>" > README.md
 echo -e "<p align="center"><img align="center" height='80' src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png"></p>\n" >> README.md
-echo -e "<p align="center"><img align="center" src="https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg"> <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg"> <img height='20' align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png"></p>" >> README.md
+echo -e "<p align="center"><img src="https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png"></p>" >> README.md
 echo -e "<h3 align='center'>🕒 Indonesian Time(UTC$(printf "%+.2f" "$(bc <<< "scale=2; $timezone / 3600")")): <u>$time</u> (🤖Automated)</h3>\n" >> README.md
 echo -e "<table align='center'>" >> README.md
 echo -e "<tr>" >> README.md
