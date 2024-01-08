@@ -2,11 +2,11 @@
 <p align=center><img align=center height='80' src=https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png></p>
 
 <p align=center><img src=https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg> <img src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg> <img height='20' src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png></p>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-08 08:53:51 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-08 09:24:49 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>29.73°C</b><br><img src='https://openweathermap.org/img/w/50d.png' height='50'><br><b>Haze</b><br><b>(haze)</b><br><b>Feels Like: 36.73°C<br><b>Wind Direction: South-Southwest</b></b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>29.66°C</b><br><img src='https://openweathermap.org/img/w/50d.png' height='50'><br><b>Haze</b><br><b>(haze)</b><br><b>Feels Like: 36.66°C<br><b>Wind Direction: South-Southwest</b></b></td>
 </tr>
 <td>
 <table>
@@ -14,7 +14,7 @@
 <td align=center colspan=2><img src=images/rain.png height=25><br>Rainfall: <b>0 Millimeters</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>26.28°C</b></td>
+<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>27.71°C</b></td>
 <td align='center'><img src='images/fast.png' height='25'><br>Maximum<br>Temperature:<br><b>31.46°C</b></td>
 </tr>
 <tr>
@@ -23,11 +23,11 @@
 </tr>
 <tr>
 <td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>1.54 m/s</b><br>Wind Gust Speed:<br><b>0 m/s</b></td>
-<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>210°</b></td>
+<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>200°</b></td>
 </tr>
 <tr>
 <td align='center'><img src='images/cloudy.png' height='25'><br>Cloudiness:<br><b>40%</b></td>
-<td align='center'><img src='images/low-visibility.png' height='25'><br>Visibility:<br><b>5000 Meters</b></td>
+<td align='center'><img src='images/low-visibility.png' height='25'><br>Visibility:<br><b>4000 Meters</b></td>
 </tr>
 <tr>
 <td align='center'><img src='images/sunrise.png' height='25'><br>Sunrise:<br><b>2024-01-08 05:44:34</b></td>
@@ -38,9 +38,9 @@
 <h2 align=center><img src=images/clock.png height=25> Next 24 Hours</h2>
 <table align=center>
 <tr>
-<td align=center><b>29.73°C</b><br><img src='https://openweathermap.org/img/w/03d.png' height='50'><br><b>Clouds</b><br><b>10:00</b></td>
-<td align=center><b>29.52°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>13:00</b></td>
-<td align=center><b>28.04°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>16:00</b></td>
+<td align=center><b>29.66°C</b><br><img src='https://openweathermap.org/img/w/03d.png' height='50'><br><b>Clouds</b><br><b>10:00</b></td>
+<td align=center><b>29.47°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>13:00</b></td>
+<td align=center><b>28.02°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>16:00</b></td>
 <td align=center><b>26.92°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>19:00</b></td>
 <td align=center><b>26.69°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>22:00</b></td>
 <td align=center><b>26.37°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>01:00</b></td>
