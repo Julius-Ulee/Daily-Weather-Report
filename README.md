@@ -3,11 +3,11 @@
 
 <p align=center><img align=center src=https://img.shields.io/github/contributors/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://img.shields.io/github/issues/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields> <img align=center src=https://img.shields.io/github/issues-pr/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://img.shields.io/github/commit-activity/m/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg> <img height='20' align=center src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png><br><img align=center src=https://img.shields.io/maintenance/yes/2024></p>
 <p align=center><b>Display GitHub Action Badge</b> <a href=https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml><img align=center src=https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg></a></p>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-22 19:19:17 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-22 20:14:04 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3588 Longitude: 106.8527</b><br><img src='images/thermometer.png' height='18'> <b>29.71°C</b><br><img src='https://openweathermap.org/img/w/03n.png' height='50'><br><b>Clouds</b><br><b>(scattered clouds)</b><br><b>Feels Like: 31.92°C<br><b>Wind Direction: West-Southwest</b></b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Pasir Gunung Selatan</b><br><b>Latitude: -6.3594 Longitude: 106.8461</b><br><img src='images/thermometer.png' height='18'> <b>29.71°C</b><br><img src='https://openweathermap.org/img/w/03n.png' height='50'><br><b>Clouds</b><br><b>(scattered clouds)</b><br><b>Feels Like: 32.67°C<br><b>Wind Direction: West</b></b></td>
 </tr>
 <td>
 <table>
@@ -20,20 +20,20 @@
 <td align='center'><img src='images/fast.png' height='25'><br>Maximum<br>Temperature:<br><b>29.71°C</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/humidity.png' height='25'><br>Humidity:<br><b>58%</b></td>
+<td align='center'><img src='images/humidity.png' height='25'><br>Humidity:<br><b>62%</b></td>
 <td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>1010 hPa</b></td>
 </tr>
 <tr>
 <td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>7.72 m/s</b><br>Wind Gust Speed:<br><b>0 m/s</b></td>
-<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>240°</b></td>
+<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>260°</b></td>
 </tr>
 <tr>
 <td align='center'><img src='images/cloudy.png' height='25'><br>Cloudiness:<br><b>40%</b></td>
 <td align='center'><img src='images/low-visibility.png' height='25'><br>Visibility:<br><b>6000 Meters</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/sunrise.png' height='25'><br>Sunrise:<br><b>2024-01-22 05:50:56</b></td>
-<td align='center'><img src='images/sunsets.png' height='25'><br>Sunset:<br><b>2024-01-22 18:16:31</b></td>
+<td align='center'><img src='images/sunrise.png' height='25'><br>Sunrise:<br><b>2024-01-22 05:50:58</b></td>
+<td align='center'><img src='images/sunsets.png' height='25'><br>Sunset:<br><b>2024-01-22 18:16:32</b></td>
 </tr>
 </table>
 </table>
