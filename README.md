@@ -1,8 +1,9 @@
 # <h1 align='center'><img height='35' src='images/cloud.png'> Daily Weather Report <img height='35' src='images/cloud.png'></h1>
 <p align=center><img align=center height='80' src=https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png></p>
 
-<p align=center><img src=https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg> <img src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg> <img height='20' src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png></p>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-22 17:11:02 WIB</u> (🤖Automated)</h3>
+<p align=center><img align=center src=https://img.shields.io/github/contributors/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://img.shields.io/github/issues/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://img.shields.io/github/issues-pr/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://img.shields.io/github/commit-activity/m/Julius-Ulee/Daily-Weather-Report> <img align=center src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg> <img height='20' align=center src=https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png><br><img align=center src=https://img.shields.io/maintenance/yes/2024></p>
+<p align=center><b>Display GitHub Action Badge</b> <a href=https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml><img align=center src=https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg></a></p>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2024-01-22 17:12:53 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
