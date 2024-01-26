@@ -182,7 +182,7 @@ tail -n +2 weather_history.csv >> temp.csv
 mv temp.csv weather_history.csv
 
 git add weather_history.csv
-git commit -m "📄 Update weather history data $(date +'%Y-%m-%d %H:%M:%S %Z')"
+git commit -m "🗃️ Update weather history data $(date +'%Y-%m-%d %H:%M:%S %Z')"
 git pull origin main
 git push origin main
 
@@ -254,6 +254,6 @@ json_data+="
 echo "$json_data" > weather.json
 
 git add README.md weather.json
-git commit -m "🗃️ Update latest data $(date +'%Y-%m-%d %H:%M:%S %Z')"
+git commit -m "📄 Update latest data $(date +'%Y-%m-%d %H:%M:%S %Z')"
 git pull origin main
 git push origin main
