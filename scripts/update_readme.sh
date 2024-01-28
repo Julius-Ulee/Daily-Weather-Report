@@ -11,7 +11,13 @@ kelvin_to_celsius() {
 }
 
 time=$(date +'%Y-%m-%d %H:%M:%S %Z')
-city="Pasir Gunung Selatan"
+config_file="config.json"
+if [ -f "$config_file" ]; then
+    city=$(jq -r '.city' "$config_file")
+else
+    echo "Error: Config file '$config_file' not found!"
+    exit 1
+fi
 city_encoded=${city// /%20}
 weather_info=$(curl -s "http://api.openweathermap.org/data/2.5/weather?q=${city_encoded}&appid=${OPENWEATHERMAP_API_KEY}")
 
@@ -99,9 +105,9 @@ forecast_24h_info=$(curl -s "http://api.openweathermap.org/data/2.5/forecast?q=$
 
 echo "# <h1 align='center'><img height='35' src='images/cloud.png'> Daily Weather Report <img height='35' src='images/cloud.png'></h1>" > README.md
 echo -e "<p align="center"><img align="center" height='80' src="images/logo_white_cropped.png"></p>\n" >> README.md
-echo -e "<p align="center"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Daily-Weather-Report"> <img align="center" src="https://img.shields.io/github/issues/Julius-Ulee/Daily-Weather-Report"> <img align="center" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields"> <img align="center" src="https://img.shields.io/github/issues-pr/Julius-Ulee/Daily-Weather-Report"> <img align="center" src="https://img.shields.io/github/commit-activity/m/Julius-Ulee/Daily-Weather-Report"> <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg"> <img height='20' align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png"><br><img align="center" src="https://img.shields.io/maintenance/yes/2024"></p>" >> README.md
-echo -e "<p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml"><img align="center" src="https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg"></a></p>" >> README.md
-echo -e "<p align="center"><a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/.github/workflows/weather.yml">Weather-YML</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/scripts/update_readme.sh">update-readme</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/weather.json">Weather Data</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/weather_history.csv">Weather History</a></p>" >> README.md
+echo -e "${IMAGES}" >> README.md
+echo -e "${BADGES}" >> README.md
+echo -e "${INFO}" >> README.md
 echo -e "<h3 align='center'>🕒 Indonesian Time(UTC$(printf "%+.2f" "$(bc <<< "scale=2; $timezone / 3600")")): <u>$time</u> (🤖Automated)</h3>\n" >> README.md
 echo -e "<table align='center'>" >> README.md
 echo -e "<tr>" >> README.md
@@ -161,8 +167,8 @@ done
 echo -e "</tr>" >> README.md
 echo -e "</table>" >> README.md
 echo -e "<h2>📄 License</h2>" >> README.md
-echo -e "<li>Powered by: <a href="https://github.com/Julius-Ulee/Daily-Weather-Report">Daily-Weather-Report</a></li>" >> README.md
-echo -e "<li><a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li>" >> README.md
+echo -e "${POWERED}" >> README.md
+echo -e "${LICENSE}" >> README.md
 
 git config --global user.email "action@github.com"
 git config --global user.name "GitHub Action"
