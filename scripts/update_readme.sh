@@ -180,20 +180,6 @@ git push origin main
 
 #!/bin/bash
 
-echo "Time,City,Latitude,Longitude,Temperature_Celsius,Condition,Condition_Description,Icon_Code,Temp_Min_Celsius,Temp_Max_Celsius,Humidity,Feels_Like_Celsius,Pressure,Visibility,Wind_Deg,Gust_Speed,Wind_Speed,Rainfall_mm,Snowfall_mm,Clouds,Sunrise_Readable,Sunset_Readable,Timezone,Coord_Lon,Coord_Lat,Wind_Direction_Text,Weather_Description_With_Wind" > temp.csv
-
-echo "${time},${city},${latitude},${longitude},${temperature_celsius},${condition},${condition1},${weather_icon},${temp_min_celsius},${temp_max_celsius},${humidity},${feels_like_celsius},${pressure},${visibility},${wind_deg},${gust_speed},${wind_speed},${rainfall_mm},${snowfall_mm},${clouds},${sunrise_readable},${sunset_readable},${timezone},${coord_lon},${coord_lat},${wind_direction_text},${weather_description_with_wind}" >> temp.csv
-tail -n +2 weather_history.csv >> temp.csv
-
-mv temp.csv weather_history.csv
-
-git add weather_history.csv
-git commit -m "🗃️ Update weather history data $(date +'%Y-%m-%d %H:%M:%S %Z')"
-git pull origin main
-git push origin main
-
-#!/bin/bash
-
 json_data=$(cat <<EOF
 {
   "city": "${city}",
