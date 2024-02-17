@@ -4,7 +4,7 @@
 ## Features
 - Retrieving Weather Information from OpenWeatherMap API, Temperature Conversion and Retrieval of Current Weather Data
 - Data Processing and Format and README.md Generation
-- Weather Historical Data Generation and JSON Data Generation
+- JSON Data Generation
 
 ## Getting Started
 To use Daily Weather Report, you can follow these steps:
