@@ -41,10 +41,22 @@ visibility=$(echo "$weather_info" | jq -r '.visibility')
 wind_deg=$(echo "$weather_info" | jq -r '.wind.deg')
 gust_speed=$(echo "$weather_info" | jq -r '.wind.gust // empty')
 wind_speed=$(echo $weather_info | jq -r '.wind.speed // empty')
-rainfall=$(echo "$weather_info" | jq -r '.rain."1h"')
+rainfall=$(echo "$weather_info" | jq -r '.rain."1h" // empty')
 rainfall_mm=$(echo "scale=2; $rainfall * 25.4" | bc)
 snowfall=$(echo "$weather_info" | jq -r '.snow."1h" // empty')
 snowfall_mm=$(echo "scale=2; $snowfall * 25.4" | bc)
+
+if [ -z "$rainfall" ]; then
+    rainfall_info=""
+else
+    rainfall_info="<td align='center' colspan='2'><img src='images/rain.png' height='25'><br>Rainfall: <br><b>${rainfall_mm:-0} Millimeters</b></td>"
+fi
+
+if [ -z "$snowfall" ]; then
+    snowfall_info=""
+else
+    snowfall_info="<td align='center' colspan='2'><img src='images/snow.png' height='25'><br>Snowfall: <br><b>${snowfall_mm:-0} Millimeters</b></td>"
+fi
 
 temp_min_celsius=$(kelvin_to_celsius ${temp_min_kelvin:-0})
 temp_max_celsius=$(kelvin_to_celsius ${temp_max_kelvin:-0})
@@ -116,8 +128,8 @@ echo -e "</tr>" >> README.md
 echo -e "<td>" >> README.md
 echo -e "<table>" >> README.md
 echo -e "<tr>" >> README.md
-echo -e "<td align='center'><img src='images/rain.png' height="25"><br>Rainfall: <br><b>${rainfall_mm:-0} Millimeters</b></td>" >> README.md
-echo -e "<td align='center'><img src='images/snow.png' height='25'><br>Snowfall: <br><b>${snowfall_mm:-0} Millimeters</b></td>" >> README.md
+echo -e "$rainfall_info" >> README.md
+echo -e "$snowfall_info" >> README.md
 echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
 echo -e "<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>${temp_min_celsius:-0}°C</b></td>" >> README.md
