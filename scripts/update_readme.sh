@@ -40,6 +40,13 @@ pressure=$(echo "$weather_info" | jq -r '.main.pressure')
 visibility=$(echo "$weather_info" | jq -r '.visibility')
 wind_deg=$(echo "$weather_info" | jq -r '.wind.deg')
 gust_speed=$(echo "$weather_info" | jq -r '.wind.gust // empty')
+
+if [ -z "$gust_speed" ]; then
+    gust_speed_info=""
+else
+    gust_speed_info="Wind Gust Speed:<br><b>${gust_speed} m/s"
+fi
+
 wind_speed=$(echo $weather_info | jq -r '.wind.speed // empty')
 rainfall=$(echo "$weather_info" | jq -r '.rain."1h" // empty')
 rainfall_mm=$(echo "scale=2; $rainfall * 25.4" | bc)
@@ -140,7 +147,7 @@ echo -e "<td align='center'><img src='images/humidity.png' height='25'><br>Humid
 echo -e "<td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>${pressure:-0} hPa</b></td>" >> README.md
 echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
-echo -e "<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>${wind_speed:-0} m/s</b><br>Wind Gust Speed:<br><b>${gust_speed:-0} m/s</b></td>" >> README.md
+echo -e "<td align='center'><img src='images/air-flow.png' height='25'><br>Wind Speed:<br><b>${wind_speed:-0} m/s</b><br>$gust_speed_info</b></td>" >> README.md
 echo -e "<td align='center'><img src='images/anemometer.png' height='25'><br>Wind Direction:<br><b>${wind_deg:-0}°</b></td>" >> README.md
 echo -e "</tr>" >> README.md
 echo -e "<tr>" >> README.md
