@@ -185,9 +185,6 @@ done
 
 echo -e "</tr>" >> README.md
 echo -e "</table>" >> README.md
-echo -e "<h2>📄 License</h2>" >> README.md
-echo -e "${POWERED}" >> README.md
-echo -e "${LICENSE}" >> README.md
 
 git config --global user.email "action@github.com"
 git config --global user.name "GitHub Action"
