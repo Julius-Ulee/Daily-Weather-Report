@@ -10,12 +10,12 @@
   "temp_max_celsius": 29.71,
   "humidity": 74,
   "feels_like_celsius": 35.27,
-  "pressure": 1008,
+  "pressure": 1009,
   "visibility": 6000,
-  "wind_deg": 10,
+  "wind_deg": 20,
   "gust_speed": ,
-  "wind_speed": 3.09,
-  "rainfall_mm": 30.22,
+  "wind_speed": 2.57,
+  "rainfall_mm": 13.97,
   "snowfall_mm": ,
   "clouds": 40,
   "sunrise_readable": "2024-04-13 05:53:37",
@@ -23,20 +23,20 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "wind_direction_text": "North-Northeast",
+  "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 29.01,
+            "temperature_celsius": 29.71,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 28.04,
+            "temperature_celsius": 28.87,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 26.54,
+            "temperature_celsius": 27.60,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "04:00"
