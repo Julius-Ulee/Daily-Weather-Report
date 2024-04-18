@@ -8,13 +8,13 @@
   "icon_code": "04n",
   "temp_min_celsius": 25.17,
   "temp_max_celsius": 27.18,
-  "humidity": 90,
-  "feels_like_celsius": 26.85,
+  "humidity": 91,
+  "feels_like_celsius": 26.88,
   "pressure": 1007,
   "visibility": 10000,
-  "wind_deg": 193,
-  "gust_speed": 0.39,
-  "wind_speed": 0.18,
+  "wind_deg": 274,
+  "gust_speed": 0.5,
+  "wind_speed": 0.87,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 100,
@@ -23,14 +23,9 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "South-Southwest",
-  "weather_description_with_wind": "Wind Direction: South-Southwest",
+  "wind_direction_text": "West",
+  "weather_description_with_wind": "Wind Direction: West",
   "forecast_24h": [          {
-            "temperature_celsius": 25.86,
-            "condition": "Clouds",
-            "icon_code": "04n",
-            "date_readable": "04:00"
-          },          {
             "temperature_celsius": 26.21,
             "condition": "Clouds",
             "icon_code": "04d",
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 26.19,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "04:00"
           },
   ]
 }
