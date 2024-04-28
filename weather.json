@@ -21,8 +21,8 @@
   "sunrise_readable": "2024-04-28 05:52:59",
   "sunset_readable": "2024-04-28 17:46:57",
   "timezone": 25200,
-  "coord_lon": 106.8473,
-  "coord_lat": -6.3649,
+  "coord_lon": 106.8461,
+  "coord_lat": -6.3594,
   "wind_direction_text": "West",
   "weather_description_with_wind": "Wind Direction: West",
   "forecast_24h": [          {
