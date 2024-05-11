@@ -8,9 +8,9 @@
   "icon_code": "02n",
   "temp_min_celsius": 27.49,
   "temp_max_celsius": 29.71,
-  "humidity": 84,
-  "feels_like_celsius": 35.33,
-  "pressure": 1009,
+  "humidity": 80,
+  "feels_like_celsius": 34.46,
+  "pressure": 1010,
   "visibility": 6000,
   "wind_deg": 60,
   "gust_speed": ,
@@ -26,42 +26,42 @@
   "wind_direction_text": "East-Northeast",
   "weather_description_with_wind": "Wind Direction: East-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 28.26,
+            "temperature_celsius": 28.30,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 27.10,
+            "temperature_celsius": 27.14,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 25.95,
+            "temperature_celsius": 25.96,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 26.94,
+            "temperature_celsius": 26.87,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 30.60,
+            "temperature_celsius": 31.06,
             "condition": "Clouds",
-            "icon_code": "04d",
+            "icon_code": "03d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 32.26,
+            "temperature_celsius": 33.93,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 31.49,
+            "temperature_celsius": 31.35,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 28.15,
+            "temperature_celsius": 27.93,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
