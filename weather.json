@@ -5,13 +5,13 @@
   "temperature_celsius": 26.16,
   "condition": "Haze",
   "condition_description": "haze",
-  "icon_code": "50n",
+  "icon_code": "50d",
   "temp_min_celsius": 25.63,
   "temp_max_celsius": 26.77,
-  "humidity": 81,
+  "humidity": 84,
   "feels_like_celsius": 26.16,
   "pressure": 1007,
-  "visibility": 4000,
+  "visibility": 5000,
   "wind_deg": 0,
   "gust_speed": ,
   "wind_speed": 0,
@@ -26,17 +26,17 @@
   "wind_direction_text": "North",
   "weather_description_with_wind": "Wind Direction: North",
   "forecast_24h": [          {
-            "temperature_celsius": 26.42,
+            "temperature_celsius": 26.16,
             "condition": "Clouds",
-            "icon_code": "03d",
+            "icon_code": "02d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 29.18,
+            "temperature_celsius": 27.67,
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 33.20,
+            "temperature_celsius": 30.85,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
