@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 28.87,
+  "temperature_celsius": 29.02,
   "condition": "Clouds",
-  "condition_description": "scattered clouds",
-  "icon_code": "03n",
+  "condition_description": "few clouds",
+  "icon_code": "02n",
   "temp_min_celsius": 27.39,
-  "temp_max_celsius": 29.15,
-  "humidity": 74,
-  "feels_like_celsius": 33.18,
-  "pressure": 1009,
+  "temp_max_celsius": 29.54,
+  "humidity": 71,
+  "feels_like_celsius": 32.96,
+  "pressure": 1010,
   "visibility": 6000,
-  "wind_deg": 60,
+  "wind_deg": 110,
   "gust_speed": ,
-  "wind_speed": 3.09,
+  "wind_speed": 1.54,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 40,
+  "clouds": 20,
   "sunrise_readable": "2024-05-26 05:56:08",
   "sunset_readable": "2024-05-26 17:43:32",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East-Northeast",
-  "weather_description_with_wind": "Wind Direction: East-Northeast",
+  "wind_direction_text": "East-Southeast",
+  "weather_description_with_wind": "Wind Direction: East-Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 28.87,
+            "temperature_celsius": 28.26,
             "condition": "Clouds",
-            "icon_code": "03n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 28.16,
-            "condition": "Clouds",
-            "icon_code": "03n",
+            "icon_code": "02n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 27.15,
+            "temperature_celsius": 27.20,
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 27.82,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "22:00"
           },
   ]
 }
