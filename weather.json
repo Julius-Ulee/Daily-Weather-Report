@@ -6,18 +6,18 @@
   "condition": "Clouds",
   "condition_description": "few clouds",
   "icon_code": "02n",
-  "temp_min_celsius": 25.27,
+  "temp_min_celsius": 24.63,
   "temp_max_celsius": 26.21,
-  "humidity": 70,
-  "feels_like_celsius": 26.36,
+  "humidity": 72,
+  "feels_like_celsius": 26.41,
   "pressure": 1009,
   "visibility": 10000,
-  "wind_deg": 150,
-  "gust_speed": 3.41,
-  "wind_speed": 1.77,
+  "wind_deg": 165,
+  "gust_speed": 3.06,
+  "wind_speed": 1.74,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 20,
+  "clouds": 17,
   "sunrise_readable": "2024-06-21 06:01:49",
   "sunset_readable": "2024-06-21 17:46:57",
   "timezone": 25200,
@@ -26,11 +26,6 @@
   "wind_direction_text": "South-Southeast",
   "weather_description_with_wind": "Wind Direction: South-Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 25.89,
-            "condition": "Clouds",
-            "icon_code": "02n",
-            "date_readable": "04:00"
-          },          {
             "temperature_celsius": 25.74,
             "condition": "Clouds",
             "icon_code": "03d",
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 25.68,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "04:00"
           },
   ]
 }
