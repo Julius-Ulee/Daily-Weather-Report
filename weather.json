@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 34.00,
+  "temperature_celsius": 31.63,
   "condition": "Clouds",
   "condition_description": "scattered clouds",
   "icon_code": "03d",
-  "temp_min_celsius": 32.39,
-  "temp_max_celsius": 34.23,
-  "humidity": 70,
-  "feels_like_celsius": 41.00,
+  "temp_min_celsius": 31.28,
+  "temp_max_celsius": 31.63,
+  "humidity": 48,
+  "feels_like_celsius": 33.26,
   "pressure": 1007,
-  "visibility": 6000,
-  "wind_deg": 60,
-  "gust_speed": ,
-  "wind_speed": 6.17,
+  "visibility": 10000,
+  "wind_deg": 29,
+  "gust_speed": 4.19,
+  "wind_speed": 4.27,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 40,
+  "clouds": 49,
   "sunrise_readable": "2024-06-23 06:02:13",
   "sunset_readable": "2024-06-23 17:47:21",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East-Northeast",
-  "weather_description_with_wind": "Wind Direction: East-Northeast",
+  "wind_direction_text": "North-Northeast",
+  "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 34.00,
-            "condition": "Clouds",
-            "icon_code": "03d",
-            "date_readable": "16:00"
-          },          {
-            "temperature_celsius": 32.17,
+            "temperature_celsius": 30.59,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 29.73,
+            "temperature_celsius": 28.94,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
+          },          {
+            "temperature_celsius": 31.39,
+            "condition": "Clouds",
+            "icon_code": "04d",
+            "date_readable": "16:00"
           },
   ]
 }
