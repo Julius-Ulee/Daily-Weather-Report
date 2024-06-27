@@ -2,19 +2,19 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 29.33,
-  "condition": "Haze",
-  "condition_description": "haze",
-  "icon_code": "50d",
-  "temp_min_celsius": 28.71,
-  "temp_max_celsius": 30.63,
-  "humidity": 65,
-  "feels_like_celsius": 32.49,
-  "pressure": 1011,
-  "visibility": 5000,
-  "wind_deg": 120,
-  "gust_speed": ,
-  "wind_speed": 4.12,
+  "temperature_celsius": 29.54,
+  "condition": "Clouds",
+  "condition_description": "few clouds",
+  "icon_code": "02d",
+  "temp_min_celsius": 29.26,
+  "temp_max_celsius": 31.63,
+  "humidity": 67,
+  "feels_like_celsius": 33.31,
+  "pressure": 1010,
+  "visibility": 6000,
+  "wind_deg": 80,
+  "gust_speed": 3.09,
+  "wind_speed": 2.45,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 20,
@@ -23,20 +23,15 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East-Southeast",
-  "weather_description_with_wind": "Wind Direction: East-Southeast",
+  "wind_direction_text": "East",
+  "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 29.33,
-            "condition": "Clouds",
-            "icon_code": "02d",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": 30.32,
+            "temperature_celsius": 30.46,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 29.93,
+            "temperature_celsius": 30.00,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "16:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 29.88,
+            "condition": "Clouds",
+            "icon_code": "04d",
+            "date_readable": "10:00"
           },
   ]
 }
