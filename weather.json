@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 25.52,
+  "temperature_celsius": 25.16,
   "condition": "Clouds",
-  "condition_description": "scattered clouds",
-  "icon_code": "03n",
+  "condition_description": "broken clouds",
+  "icon_code": "04n",
   "temp_min_celsius": 24.61,
-  "temp_max_celsius": 25.66,
+  "temp_max_celsius": 25.27,
   "humidity": 86,
-  "feels_like_celsius": 26.37,
+  "feels_like_celsius": 25.98,
   "pressure": 1010,
   "visibility": 10000,
-  "wind_deg": 203,
-  "gust_speed": 0.96,
-  "wind_speed": 0.93,
+  "wind_deg": 228,
+  "gust_speed": 0.75,
+  "wind_speed": 0.75,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 40,
+  "clouds": 55,
   "sunrise_readable": "2024-07-04 06:04:00",
   "sunset_readable": "2024-07-04 17:49:43",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "South-Southwest",
-  "weather_description_with_wind": "Wind Direction: South-Southwest",
+  "wind_direction_text": "Southwest",
+  "weather_description_with_wind": "Wind Direction: Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 25.52,
-            "condition": "Clouds",
-            "icon_code": "04n",
-            "date_readable": "04:00"
-          },          {
-            "temperature_celsius": 25.78,
+            "temperature_celsius": 25.54,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 28.58,
+            "temperature_celsius": 28.46,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "10:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 24.58,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "04:00"
           },
   ]
 }
