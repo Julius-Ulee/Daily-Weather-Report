@@ -2,20 +2,20 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 27.60,
-  "condition": "Clouds",
-  "condition_description": "overcast clouds",
-  "icon_code": "04d",
-  "temp_min_celsius": 26.93,
-  "temp_max_celsius": 30.17,
-  "humidity": 77,
-  "feels_like_celsius": 30.74,
+  "temperature_celsius": 27.18,
+  "condition": "Rain",
+  "condition_description": "moderate rain",
+  "icon_code": "10d",
+  "temp_min_celsius": 26.21,
+  "temp_max_celsius": 28.84,
+  "humidity": 76,
+  "feels_like_celsius": 29.74,
   "pressure": 1009,
-  "visibility": 3794,
-  "wind_deg": 9,
-  "gust_speed": 2.19,
-  "wind_speed": 2.57,
-  "rainfall_mm": 2.54,
+  "visibility": 10000,
+  "wind_deg": 19,
+  "gust_speed": 1.44,
+  "wind_speed": 1.76,
+  "rainfall_mm": 27.94,
   "snowfall_mm": ,
   "clouds": 100,
   "sunrise_readable": "2024-07-04 06:04:00",
@@ -23,20 +23,15 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "wind_direction_text": "North-Northeast",
+  "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 27.60,
-            "condition": "Rain",
-            "icon_code": "10d",
-            "date_readable": "16:00"
-          },          {
-            "temperature_celsius": 27.13,
+            "temperature_celsius": 26.85,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 25.80,
+            "temperature_celsius": 25.66,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "13:00"
+          },          {
+            "temperature_celsius": 30.15,
+            "condition": "Rain",
+            "icon_code": "10d",
+            "date_readable": "16:00"
           },
   ]
 }
