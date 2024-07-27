@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 29.37,
+  "temperature_celsius": 30.01,
   "condition": "Haze",
   "condition_description": "haze",
   "icon_code": "50d",
-  "temp_min_celsius": 28.50,
-  "temp_max_celsius": 29.82,
-  "humidity": 64,
-  "feels_like_celsius": 32.38,
-  "pressure": 1014,
-  "visibility": 3000,
-  "wind_deg": 150,
+  "temp_min_celsius": 29.62,
+  "temp_max_celsius": 30.71,
+  "humidity": 57,
+  "feels_like_celsius": 32.27,
+  "pressure": 1013,
+  "visibility": 5000,
+  "wind_deg": 60,
   "gust_speed": ,
-  "wind_speed": 1.54,
+  "wind_speed": 4.12,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 86,
+  "clouds": 88,
   "sunrise_readable": "2024-07-27 06:04:21",
   "sunset_readable": "2024-07-27 17:53:39",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "South-Southeast",
-  "weather_description_with_wind": "Wind Direction: South-Southeast",
+  "wind_direction_text": "East-Northeast",
+  "weather_description_with_wind": "Wind Direction: East-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 29.37,
-            "condition": "Clouds",
-            "icon_code": "04d",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": 30.78,
+            "temperature_celsius": 31.21,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 31.48,
+            "temperature_celsius": 31.70,
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "16:00"
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 30.91,
+            "condition": "Clear",
+            "icon_code": "01d",
+            "date_readable": "10:00"
           },
   ]
 }
