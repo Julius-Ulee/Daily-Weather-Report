@@ -6,15 +6,15 @@
   "condition": "Haze",
   "condition_description": "haze",
   "icon_code": "50n",
-  "temp_min_celsius": 28.71,
-  "temp_max_celsius": 29.15,
-  "humidity": 65,
-  "feels_like_celsius": 31.29,
+  "temp_min_celsius": 28.60,
+  "temp_max_celsius": 28.71,
+  "humidity": 70,
+  "feels_like_celsius": 32.10,
   "pressure": 1013,
   "visibility": 5000,
-  "wind_deg": 70,
+  "wind_deg": 100,
   "gust_speed": ,
-  "wind_speed": 4.12,
+  "wind_speed": 3.09,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 40,
@@ -23,14 +23,9 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East-Northeast",
-  "weather_description_with_wind": "Wind Direction: East-Northeast",
+  "wind_direction_text": "East",
+  "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 28.71,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "22:00"
-          },          {
             "temperature_celsius": 27.72,
             "condition": "Clouds",
             "icon_code": "03n",
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 26.73,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "22:00"
           },
   ]
 }
