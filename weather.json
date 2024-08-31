@@ -10,11 +10,11 @@
   "temp_max_celsius": 29.15,
   "humidity": 65,
   "feels_like_celsius": 31.29,
-  "pressure": 1009,
+  "pressure": 1011,
   "visibility": 8000,
-  "wind_deg": 360,
+  "wind_deg": 30,
   "gust_speed": ,
-  "wind_speed": 3.09,
+  "wind_speed": 3.6,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 40,
@@ -23,47 +23,47 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "wind_direction_text": "North-Northeast",
+  "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 28.45,
+            "temperature_celsius": 28.53,
             "condition": "Clouds",
-            "icon_code": "04n",
+            "icon_code": "03n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 27.69,
+            "temperature_celsius": 27.75,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 26.79,
+            "temperature_celsius": 26.65,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 27.11,
+            "temperature_celsius": 27.16,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 31.83,
+            "temperature_celsius": 32.03,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 34.37,
+            "temperature_celsius": 34.38,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 32.65,
-            "condition": "Clouds",
-            "icon_code": "03d",
+            "temperature_celsius": 32.49,
+            "condition": "Clear",
+            "icon_code": "01d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 29.61,
+            "temperature_celsius": 29.32,
             "condition": "Clouds",
-            "icon_code": "04n",
+            "icon_code": "03n",
             "date_readable": "19:00"
           },
   ]
