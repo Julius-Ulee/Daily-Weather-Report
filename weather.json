@@ -2,22 +2,22 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 29.55,
+  "temperature_celsius": 29.91,
   "condition": "Clouds",
-  "condition_description": "few clouds",
-  "icon_code": "02n",
-  "temp_min_celsius": 27.71,
+  "condition_description": "overcast clouds",
+  "icon_code": "04n",
+  "temp_min_celsius": 28.04,
   "temp_max_celsius": 30.40,
-  "humidity": 62,
-  "feels_like_celsius": 32.36,
+  "humidity": 57,
+  "feels_like_celsius": 32.09,
   "pressure": 1010,
-  "visibility": 7000,
-  "wind_deg": 260,
-  "gust_speed": ,
-  "wind_speed": 3.6,
+  "visibility": 10000,
+  "wind_deg": 263,
+  "gust_speed": 5.05,
+  "wind_speed": 3.32,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 20,
+  "clouds": 100,
   "sunrise_readable": "2024-12-17 05:34:06",
   "sunset_readable": "2024-12-17 18:03:28",
   "timezone": 25200,
@@ -26,19 +26,14 @@
   "wind_direction_text": "West",
   "weather_description_with_wind": "Wind Direction: West",
   "forecast_24h": [          {
-            "temperature_celsius": 29.55,
+            "temperature_celsius": 29.13,
             "condition": "Clouds",
-            "icon_code": "02n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 28.89,
-            "condition": "Clouds",
-            "icon_code": "03n",
+            "icon_code": "04n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 27.75,
+            "temperature_celsius": 27.87,
             "condition": "Clouds",
-            "icon_code": "03n",
+            "icon_code": "04n",
             "date_readable": "04:00"
           },          {
             "temperature_celsius": 27.94,
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 28.56,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "22:00"
           },
   ]
 }
