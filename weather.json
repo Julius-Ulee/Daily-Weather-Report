@@ -6,15 +6,15 @@
   "condition": "Clouds",
   "condition_description": "overcast clouds",
   "icon_code": "04n",
-  "temp_min_celsius": 24.15,
+  "temp_min_celsius": 24.71,
   "temp_max_celsius": 29.26,
-  "humidity": 61,
-  "feels_like_celsius": 31.65,
+  "humidity": 60,
+  "feels_like_celsius": 31.48,
   "pressure": 1009,
   "visibility": 10000,
-  "wind_deg": 247,
-  "gust_speed": 7.98,
-  "wind_speed": 3.68,
+  "wind_deg": 250,
+  "gust_speed": 7.45,
+  "wind_speed": 3.69,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 100,
@@ -26,17 +26,17 @@
   "wind_direction_text": "West-Southwest",
   "weather_description_with_wind": "Wind Direction: West-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 28.31,
+            "temperature_celsius": 29.26,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 27.33,
+            "temperature_celsius": 28.30,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 29.96,
+            "temperature_celsius": 29.73,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "10:00"
