@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 34.16,
+  "temperature_celsius": 34.26,
   "condition": "Clouds",
   "condition_description": "few clouds",
   "icon_code": "02d",
-  "temp_min_celsius": 31.30,
-  "temp_max_celsius": 35.75,
-  "humidity": 48,
-  "feels_like_celsius": 38.07,
-  "pressure": 1008,
+  "temp_min_celsius": 31.63,
+  "temp_max_celsius": 35.82,
+  "humidity": 46,
+  "feels_like_celsius": 37.63,
+  "pressure": 1007,
   "visibility": 10000,
-  "wind_deg": 293,
-  "gust_speed": 3.79,
-  "wind_speed": 3.22,
+  "wind_deg": 311,
+  "gust_speed": 4.47,
+  "wind_speed": 4.29,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 18,
+  "clouds": 22,
   "sunrise_readable": "2025-01-03 05:42:27",
   "sunset_readable": "2025-01-03 18:11:13",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "West-Northwest",
-  "weather_description_with_wind": "Wind Direction: West-Northwest",
+  "wind_direction_text": "Northwest",
+  "weather_description_with_wind": "Wind Direction: Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": 34.16,
-            "condition": "Clouds",
-            "icon_code": "02d",
-            "date_readable": "13:00"
-          },          {
-            "temperature_celsius": 33.81,
+            "temperature_celsius": 33.87,
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 31.83,
+            "temperature_celsius": 31.87,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "10:00"
+          },          {
+            "temperature_celsius": 35.49,
+            "condition": "Clouds",
+            "icon_code": "03d",
+            "date_readable": "13:00"
           },
   ]
 }
