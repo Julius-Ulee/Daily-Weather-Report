@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 33.93,
+  "temperature_celsius": 33.06,
   "condition": "Clouds",
   "condition_description": "overcast clouds",
   "icon_code": "04d",
-  "temp_min_celsius": 31.07,
-  "temp_max_celsius": 34.63,
-  "humidity": 51,
-  "feels_like_celsius": 38.58,
-  "pressure": 1008,
+  "temp_min_celsius": 30.38,
+  "temp_max_celsius": 34.23,
+  "humidity": 52,
+  "feels_like_celsius": 37.00,
+  "pressure": 1007,
   "visibility": 10000,
-  "wind_deg": 282,
-  "gust_speed": 3.2,
-  "wind_speed": 2.27,
+  "wind_deg": 334,
+  "gust_speed": 3.61,
+  "wind_speed": 3.16,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 92,
+  "clouds": 90,
   "sunrise_readable": "2025-01-07 05:44:27",
   "sunset_readable": "2025-01-07 18:12:44",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "West-Northwest",
-  "weather_description_with_wind": "Wind Direction: West-Northwest",
+  "wind_direction_text": "North-Northwest",
+  "weather_description_with_wind": "Wind Direction: North-Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": 33.93,
-            "condition": "Rain",
-            "icon_code": "10d",
-            "date_readable": "13:00"
-          },          {
-            "temperature_celsius": 33.03,
+            "temperature_celsius": 32.45,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 30.98,
+            "temperature_celsius": 30.69,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "10:00"
+          },          {
+            "temperature_celsius": 29.29,
+            "condition": "Rain",
+            "icon_code": "10d",
+            "date_readable": "13:00"
           },
   ]
 }
