@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 23.76,
+  "temperature_celsius": 29.28,
   "condition": "Clouds",
-  "condition_description": "broken clouds",
+  "condition_description": "overcast clouds",
   "icon_code": "04n",
-  "temp_min_celsius": 23.71,
-  "temp_max_celsius": 25.38,
-  "humidity": 92,
-  "feels_like_celsius": 24.59,
+  "temp_min_celsius": 27.60,
+  "temp_max_celsius": 29.28,
+  "humidity": 67,
+  "feels_like_celsius": 32.76,
   "pressure": 1011,
-  "visibility": 5000,
-  "wind_deg": 290,
-  "gust_speed": ,
-  "wind_speed": 2.57,
+  "visibility": 10000,
+  "wind_deg": 246,
+  "gust_speed": 3.12,
+  "wind_speed": 1.67,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 75,
+  "clouds": 100,
   "sunrise_readable": "2025-01-11 05:46:24",
   "sunset_readable": "2025-01-11 18:14:04",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "West-Northwest",
-  "weather_description_with_wind": "Wind Direction: West-Northwest",
+  "wind_direction_text": "West-Southwest",
+  "weather_description_with_wind": "Wind Direction: West-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 23.76,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "01:00"
-          },          {
-            "temperature_celsius": 24.47,
+            "temperature_celsius": 28.15,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 25.65,
+            "temperature_celsius": 27.49,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "07:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "22:00"
+          },          {
+            "temperature_celsius": 26.83,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "01:00"
           },
   ]
 }
