@@ -12,9 +12,9 @@
   "feels_like_celsius": 33.33,
   "pressure": 1008,
   "visibility": 10000,
-  "wind_deg": 244,
-  "gust_speed": 4.27,
-  "wind_speed": 2.53,
+  "wind_deg": 246,
+  "gust_speed": 4.49,
+  "wind_speed": 2.77,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 100,
@@ -26,17 +26,17 @@
   "wind_direction_text": "West-Southwest",
   "weather_description_with_wind": "Wind Direction: West-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 28.85,
+            "temperature_celsius": 29.84,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 27.49,
+            "temperature_celsius": 28.67,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 25.80,
+            "temperature_celsius": 27.15,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
