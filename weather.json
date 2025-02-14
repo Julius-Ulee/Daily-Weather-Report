@@ -2,20 +2,20 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 30.46,
+  "temperature_celsius": 30.08,
   "condition": "Rain",
   "condition_description": "moderate rain",
-  "icon_code": "10d",
-  "temp_min_celsius": 28.71,
+  "icon_code": "10n",
+  "temp_min_celsius": 27.71,
   "temp_max_celsius": 31.84,
-  "humidity": 62,
-  "feels_like_celsius": 34.18,
-  "pressure": 1006,
+  "humidity": 65,
+  "feels_like_celsius": 34.06,
+  "pressure": 1007,
   "visibility": 8000,
-  "wind_deg": 250,
+  "wind_deg": 240,
   "gust_speed": ,
-  "wind_speed": 4.63,
-  "rainfall_mm": 87.88,
+  "wind_speed": 3.09,
+  "rainfall_mm": 75.94,
   "snowfall_mm": ,
   "clouds": 40,
   "sunrise_readable": "2025-02-14 05:57:33",
@@ -26,17 +26,12 @@
   "wind_direction_text": "West-Southwest",
   "weather_description_with_wind": "Wind Direction: West-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 30.46,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "19:00"
-          },          {
-            "temperature_celsius": 29.57,
+            "temperature_celsius": 29.32,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 28.07,
+            "temperature_celsius": 27.95,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "16:00"
+          },          {
+            "temperature_celsius": 27.88,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "19:00"
           },
   ]
 }
