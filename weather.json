@@ -18,27 +18,27 @@
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 20,
-  "sunrise_readable": "2025-03-12 05:57:40",
-  "sunset_readable": "2025-03-12 18:07:22",
+  "sunrise_readable": "2025-03-13 05:57:34",
+  "sunset_readable": "2025-03-13 18:06:55",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
   "wind_direction_text": "North",
   "weather_description_with_wind": "Wind Direction: North",
   "forecast_24h": [          {
-            "temperature_celsius": 26.85,
+            "temperature_celsius": 27.71,
             "condition": "Clouds",
-            "icon_code": "03n",
+            "icon_code": "02n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 25.80,
+            "temperature_celsius": 26.75,
             "condition": "Clouds",
-            "icon_code": "04n",
+            "icon_code": "03n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 25.86,
+            "temperature_celsius": 26.48,
             "condition": "Clouds",
-            "icon_code": "04d",
+            "icon_code": "03d",
             "date_readable": "07:00"
           },          {
             "temperature_celsius": 30.72,
