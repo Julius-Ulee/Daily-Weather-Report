@@ -3,18 +3,18 @@
   "latitude": -6.3594,
   "longitude": 106.8461,
   "temperature_celsius": 25.71,
-  "condition": "Thunderstorm",
-  "condition_description": "thunderstorm",
-  "icon_code": "11n",
+  "condition": "Clouds",
+  "condition_description": "scattered clouds",
+  "icon_code": "03n",
   "temp_min_celsius": 25.71,
-  "temp_max_celsius": 26.38,
+  "temp_max_celsius": 26.93,
   "humidity": 94,
   "feels_like_celsius": 26.79,
   "pressure": 1010,
-  "visibility": 6000,
-  "wind_deg": 120,
+  "visibility": 7000,
+  "wind_deg": 140,
   "gust_speed": ,
-  "wind_speed": 1.54,
+  "wind_speed": 2.06,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 40,
@@ -23,15 +23,10 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East-Southeast",
-  "weather_description_with_wind": "Wind Direction: East-Southeast",
+  "wind_direction_text": "Southeast",
+  "weather_description_with_wind": "Wind Direction: Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 25.71,
-            "condition": "Clouds",
-            "icon_code": "03n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 27.09,
+            "temperature_celsius": 27.07,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 26.23,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "22:00"
           },
   ]
 }
