@@ -4,7 +4,7 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Daily-Weather-Report/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Daily-Weather-Report"></a> <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/issues"><img align="center" src="https://img.shields.io/github/issues/Julius-Ulee/Daily-Weather-Report"></a> <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/pulls"><img align="center" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields"></a> <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/pulls"><img align="center" src="https://img.shields.io/github/issues-pr/Julius-Ulee/Daily-Weather-Report"></a> <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/commits/main/"><img align="center" src="https://img.shields.io/github/commit-activity/m/Julius-Ulee/Daily-Weather-Report"></a> <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg"> <img height='20' align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png"><br><a href="https://github.com/Julius-Ulee/Daily-Weather-Report"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p>
 <p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml"><img align="center" src="https://github.com/Julius-Ulee/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg"></a></p>
 <p align="center"><a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/.github/workflows/weather.yml">Weather-YML</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/scripts/update_readme.sh">update-readme</a> • <a href="https://github.com/Julius-Ulee/Daily-Weather-Report/blob/main/weather.json">Weather Data</a></p>
-<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2025-04-27 20:20:56 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+7.00): <u>2025-04-27 21:12:55 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
@@ -41,9 +41,9 @@
 <h2 align=center><img src=images/clock.png height=25> Next 24 Hours</h2>
 <table align=center>
 <tr>
-<td align=center><b>28.35°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>22:00</b></td>
-<td align=center><b>28.28°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>01:00</b></td>
-<td align=center><b>28.78°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>04:00</b></td>
+<td align=center><b>27.77°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>22:00</b></td>
+<td align=center><b>28.03°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>01:00</b></td>
+<td align=center><b>28.44°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>04:00</b></td>
 <td align=center><b>28.51°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>07:00</b></td>
 <td align=center><b>33.48°C</b><br><img src='https://openweathermap.org/img/w/01d.png' height='50'><br><b>Clear</b><br><b>10:00</b></td>
 <td align=center><b>33.27°C</b><br><img src='https://openweathermap.org/img/w/10d.png' height='50'><br><b>Rain</b><br><b>13:00</b></td>
