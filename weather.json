@@ -3,11 +3,11 @@
   "latitude": -6.3594,
   "longitude": 106.8461,
   "temperature_celsius": 27.71,
-  "condition": "Thunderstorm",
-  "condition_description": "thunderstorm",
-  "icon_code": "11d",
+  "condition": "Clouds",
+  "condition_description": "scattered clouds",
+  "icon_code": "03n",
   "temp_min_celsius": 27.71,
-  "temp_max_celsius": 29.82,
+  "temp_max_celsius": 28.71,
   "humidity": 89,
   "feels_like_celsius": 32.69,
   "pressure": 1007,
@@ -26,17 +26,17 @@
   "wind_direction_text": "North",
   "weather_description_with_wind": "Wind Direction: North",
   "forecast_24h": [          {
-            "temperature_celsius": 28.92,
+            "temperature_celsius": 27.71,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 29.60,
+            "temperature_celsius": 28.62,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 29.36,
+            "temperature_celsius": 28.81,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
