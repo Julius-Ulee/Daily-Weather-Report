@@ -13,11 +13,11 @@
   "pressure": 1008,
   "visibility": 10000,
   "wind_deg": 81,
-  "gust_speed": 1.21,
-  "wind_speed": 1.53,
+  "gust_speed": 1.41,
+  "wind_speed": 1.44,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 72,
+  "clouds": 79,
   "sunrise_readable": "2025-05-20 05:54:59",
   "sunset_readable": "2025-05-20 17:43:33",
   "timezone": 25200,
@@ -26,11 +26,6 @@
   "wind_direction_text": "East",
   "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 30.38,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "22:00"
-          },          {
             "temperature_celsius": 30.41,
             "condition": "Clouds",
             "icon_code": "04n",
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 26.37,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "22:00"
           },
   ]
 }
