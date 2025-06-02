@@ -8,11 +8,11 @@
   "icon_code": "02d",
   "temp_min_celsius": 29.82,
   "temp_max_celsius": 31.84,
-  "humidity": 56,
-  "feels_like_celsius": 34.76,
-  "pressure": 1010,
+  "humidity": 59,
+  "feels_like_celsius": 35.53,
+  "pressure": 1009,
   "visibility": 6000,
-  "wind_deg": 100,
+  "wind_deg": 50,
   "gust_speed": ,
   "wind_speed": 2.57,
   "rainfall_mm": ,
@@ -23,20 +23,20 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East",
-  "weather_description_with_wind": "Wind Direction: East",
+  "wind_direction_text": "Northeast",
+  "weather_description_with_wind": "Wind Direction: Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 31.96,
+            "temperature_celsius": 31.44,
             "condition": "Clouds",
-            "icon_code": "03d",
+            "icon_code": "02d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 32.95,
+            "temperature_celsius": 32.22,
             "condition": "Clouds",
-            "icon_code": "04d",
+            "icon_code": "03d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 31.31,
+            "temperature_celsius": 31.35,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
