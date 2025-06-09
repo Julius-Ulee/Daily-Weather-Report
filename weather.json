@@ -8,16 +8,16 @@
   "icon_code": "04n",
   "temp_min_celsius": 26.93,
   "temp_max_celsius": 27.50,
-  "humidity": 79,
-  "feels_like_celsius": 30.76,
-  "pressure": 1009,
+  "humidity": 80,
+  "feels_like_celsius": 30.88,
+  "pressure": 1010,
   "visibility": 10000,
-  "wind_deg": 116,
-  "gust_speed": 1.46,
-  "wind_speed": 1.3,
+  "wind_deg": 118,
+  "gust_speed": 1.96,
+  "wind_speed": 1.6,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 95,
+  "clouds": 91,
   "sunrise_readable": "2025-06-10 05:59:21",
   "sunset_readable": "2025-06-10 17:44:55",
   "timezone": 25200,
@@ -26,12 +26,7 @@
   "wind_direction_text": "East-Southeast",
   "weather_description_with_wind": "Wind Direction: East-Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 27.50,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "04:00"
-          },          {
-            "temperature_celsius": 28.10,
+            "temperature_celsius": 28.12,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 25.22,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "04:00"
           },
   ]
 }
