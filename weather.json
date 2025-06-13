@@ -2,19 +2,19 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 28.41,
-  "condition": "Haze",
-  "condition_description": "haze",
-  "icon_code": "50d",
-  "temp_min_celsius": 27.71,
-  "temp_max_celsius": 29.26,
-  "humidity": 73,
-  "feels_like_celsius": 31.95,
+  "temperature_celsius": 30.51,
+  "condition": "Clear",
+  "condition_description": "clear sky",
+  "icon_code": "01d",
+  "temp_min_celsius": 29.82,
+  "temp_max_celsius": 31.84,
+  "humidity": 60,
+  "feels_like_celsius": 33.83,
   "pressure": 1012,
-  "visibility": 4000,
-  "wind_deg": 150,
-  "gust_speed": ,
-  "wind_speed": 1.54,
+  "visibility": 10000,
+  "wind_deg": 95,
+  "gust_speed": 2.19,
+  "wind_speed": 1.14,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 9,
@@ -23,20 +23,15 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "South-Southeast",
-  "weather_description_with_wind": "Wind Direction: South-Southeast",
+  "wind_direction_text": "East",
+  "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 29.39,
-            "condition": "Clouds",
-            "icon_code": "04d",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": 31.98,
-            "condition": "Clouds",
-            "icon_code": "03d",
+            "temperature_celsius": 31.63,
+            "condition": "Clear",
+            "icon_code": "01d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 33.81,
+            "temperature_celsius": 32.71,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "16:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 30.81,
+            "condition": "Clouds",
+            "icon_code": "04d",
+            "date_readable": "10:00"
           },
   ]
 }
