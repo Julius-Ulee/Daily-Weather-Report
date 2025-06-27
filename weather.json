@@ -12,9 +12,9 @@
   "feels_like_celsius": 32.78,
   "pressure": 1011,
   "visibility": 6000,
-  "wind_deg": 30,
+  "wind_deg": 40,
   "gust_speed": ,
-  "wind_speed": 2.06,
+  "wind_speed": 1.54,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 40,
@@ -23,15 +23,15 @@
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "North-Northeast",
-  "weather_description_with_wind": "Wind Direction: North-Northeast",
+  "wind_direction_text": "Northeast",
+  "weather_description_with_wind": "Wind Direction: Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 28.67,
+            "temperature_celsius": 28.62,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 28.49,
+            "temperature_celsius": 28.47,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "01:00"
