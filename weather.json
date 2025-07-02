@@ -2,41 +2,36 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 31.19,
+  "temperature_celsius": 31.94,
   "condition": "Clouds",
   "condition_description": "scattered clouds",
   "icon_code": "03d",
-  "temp_min_celsius": 30.71,
-  "temp_max_celsius": 32.50,
-  "humidity": 58,
-  "feels_like_celsius": 34.75,
-  "pressure": 1010,
-  "visibility": 8000,
-  "wind_deg": 90,
-  "gust_speed": ,
-  "wind_speed": 3.09,
+  "temp_min_celsius": 31.29,
+  "temp_max_celsius": 31.94,
+  "humidity": 60,
+  "feels_like_celsius": 36.93,
+  "pressure": 1008,
+  "visibility": 10000,
+  "wind_deg": 36,
+  "gust_speed": 2.31,
+  "wind_speed": 2.38,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 40,
+  "clouds": 35,
   "sunrise_readable": "2025-07-02 06:03:42",
   "sunset_readable": "2025-07-02 17:49:14",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East",
-  "weather_description_with_wind": "Wind Direction: East",
+  "wind_direction_text": "Northeast",
+  "weather_description_with_wind": "Wind Direction: Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 31.19,
-            "condition": "Rain",
-            "icon_code": "10d",
-            "date_readable": "13:00"
-          },          {
-            "temperature_celsius": 31.38,
+            "temperature_celsius": 31.93,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 29.18,
+            "temperature_celsius": 29.43,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "10:00"
+          },          {
+            "temperature_celsius": 30.19,
+            "condition": "Rain",
+            "icon_code": "10d",
+            "date_readable": "13:00"
           },
   ]
 }
