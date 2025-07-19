@@ -6,32 +6,27 @@
   "condition": "Clouds",
   "condition_description": "broken clouds",
   "icon_code": "04n",
-  "temp_min_celsius": 26.38,
+  "temp_min_celsius": 25.82,
   "temp_max_celsius": 26.39,
   "humidity": 71,
   "feels_like_celsius": 26.39,
-  "pressure": 1008,
+  "pressure": 1010,
   "visibility": 10000,
-  "wind_deg": 168,
-  "gust_speed": 1.53,
-  "wind_speed": 1.47,
+  "wind_deg": 170,
+  "gust_speed": 1.72,
+  "wind_speed": 1.57,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 70,
+  "clouds": 61,
   "sunrise_readable": "2025-07-20 06:04:50",
   "sunset_readable": "2025-07-20 17:52:42",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "South-Southeast",
-  "weather_description_with_wind": "Wind Direction: South-Southeast",
+  "wind_direction_text": "South",
+  "weather_description_with_wind": "Wind Direction: South",
   "forecast_24h": [          {
-            "temperature_celsius": 26.39,
-            "condition": "Clouds",
-            "icon_code": "04n",
-            "date_readable": "04:00"
-          },          {
-            "temperature_celsius": 26.30,
+            "temperature_celsius": 26.32,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 24.38,
+            "condition": "Clouds",
+            "icon_code": "03n",
+            "date_readable": "04:00"
           },
   ]
 }
