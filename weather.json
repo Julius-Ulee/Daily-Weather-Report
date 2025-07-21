@@ -2,22 +2,22 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 26.94,
+  "temperature_celsius": 26.39,
   "condition": "Clouds",
-  "condition_description": "overcast clouds",
+  "condition_description": "broken clouds",
   "icon_code": "04n",
-  "temp_min_celsius": 26.93,
-  "temp_max_celsius": 26.94,
-  "humidity": 72,
-  "feels_like_celsius": 28.92,
+  "temp_min_celsius": 26.38,
+  "temp_max_celsius": 26.39,
+  "humidity": 73,
+  "feels_like_celsius": 26.39,
   "pressure": 1010,
   "visibility": 10000,
-  "wind_deg": 68,
-  "gust_speed": 2.66,
-  "wind_speed": 1.9,
+  "wind_deg": 76,
+  "gust_speed": 3.76,
+  "wind_speed": 2.31,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 100,
+  "clouds": 61,
   "sunrise_readable": "2025-07-22 06:04:46",
   "sunset_readable": "2025-07-22 17:53:00",
   "timezone": 25200,
@@ -26,12 +26,12 @@
   "wind_direction_text": "East-Northeast",
   "weather_description_with_wind": "Wind Direction: East-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 27.18,
+            "temperature_celsius": 26.79,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 26.51,
+            "temperature_celsius": 26.44,
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "07:00"
@@ -56,14 +56,14 @@
             "icon_code": "04n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 25.93,
-            "condition": "Clear",
-            "icon_code": "01n",
+            "temperature_celsius": 25.70,
+            "condition": "Clouds",
+            "icon_code": "04n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 24.80,
+            "temperature_celsius": 24.45,
             "condition": "Clouds",
-            "icon_code": "02n",
+            "icon_code": "04n",
             "date_readable": "01:00"
           },
   ]
