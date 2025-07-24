@@ -6,37 +6,37 @@
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01n",
-  "temp_min_celsius": 29.15,
+  "temp_min_celsius": 28.60,
   "temp_max_celsius": 29.16,
-  "humidity": 65,
-  "feels_like_celsius": 32.15,
-  "pressure": 1010,
+  "humidity": 67,
+  "feels_like_celsius": 32.51,
+  "pressure": 1011,
   "visibility": 10000,
-  "wind_deg": 73,
-  "gust_speed": 2.5,
-  "wind_speed": 1.99,
+  "wind_deg": 87,
+  "gust_speed": 2.43,
+  "wind_speed": 2.02,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 0,
+  "clouds": 3,
   "sunrise_readable": "2025-07-24 06:04:39",
   "sunset_readable": "2025-07-24 17:53:16",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
-  "wind_direction_text": "East-Northeast",
-  "weather_description_with_wind": "Wind Direction: East-Northeast",
+  "wind_direction_text": "East",
+  "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 29.01,
+            "temperature_celsius": 29.16,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 27.15,
+            "temperature_celsius": 28.31,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 25.64,
+            "temperature_celsius": 26.81,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "04:00"
@@ -56,12 +56,12 @@
             "icon_code": "02d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 31.20,
+            "temperature_celsius": 31.02,
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 28.24,
+            "temperature_celsius": 28.08,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
