@@ -8,9 +8,9 @@
   "icon_code": "02n",
   "temp_min_celsius": 26.38,
   "temp_max_celsius": 26.39,
-  "humidity": 80,
+  "humidity": 79,
   "feels_like_celsius": 26.39,
-  "pressure": 1012,
+  "pressure": 1013,
   "visibility": 10000,
   "wind_deg": 120,
   "gust_speed": 1,
@@ -31,7 +31,7 @@
             "icon_code": "10n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 26.53,
+            "temperature_celsius": 26.54,
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "01:00"
