@@ -5,12 +5,12 @@
   "temperature_celsius": 24.98,
   "condition": "Clouds",
   "condition_description": "few clouds",
-  "icon_code": "02n",
+  "icon_code": "02d",
   "temp_min_celsius": 24.71,
   "temp_max_celsius": 26.39,
-  "humidity": 90,
-  "feels_like_celsius": 25.88,
-  "pressure": 1010,
+  "humidity": 89,
+  "feels_like_celsius": 25.86,
+  "pressure": 1011,
   "visibility": 6000,
   "wind_deg": 240,
   "gust_speed": ,
@@ -26,17 +26,17 @@
   "wind_direction_text": "West-Southwest",
   "weather_description_with_wind": "Wind Direction: West-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 26.40,
+            "temperature_celsius": 24.98,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 30.27,
+            "temperature_celsius": 27.67,
             "condition": "Clouds",
-            "icon_code": "04d",
+            "icon_code": "03d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 35.39,
+            "temperature_celsius": 31.92,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
