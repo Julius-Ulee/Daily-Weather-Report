@@ -2,22 +2,22 @@
   "city": "Pasir Gunung Selatan",
   "latitude": -6.3594,
   "longitude": 106.8461,
-  "temperature_celsius": 29.12,
-  "condition": "Clear",
-  "condition_description": "clear sky",
-  "icon_code": "01d",
-  "temp_min_celsius": 28.71,
-  "temp_max_celsius": 29.72,
-  "humidity": 67,
-  "feels_like_celsius": 32.43,
-  "pressure": 1011,
-  "visibility": 6000,
+  "temperature_celsius": 32.38,
+  "condition": "Clouds",
+  "condition_description": "few clouds",
+  "icon_code": "02d",
+  "temp_min_celsius": 30.53,
+  "temp_max_celsius": 33.60,
+  "humidity": 51,
+  "feels_like_celsius": 35.33,
+  "pressure": 1010,
+  "visibility": 7000,
   "wind_deg": 100,
   "gust_speed": ,
-  "wind_speed": 3.09,
+  "wind_speed": 5.14,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 4,
+  "clouds": 20,
   "sunrise_readable": "2025-08-01 06:03:42",
   "sunset_readable": "2025-08-01 17:54:05",
   "timezone": 25200,
@@ -26,17 +26,12 @@
   "wind_direction_text": "East",
   "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 29.12,
-            "condition": "Clear",
-            "icon_code": "01d",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": 30.80,
-            "condition": "Clear",
-            "icon_code": "01d",
+            "temperature_celsius": 33.03,
+            "condition": "Clouds",
+            "icon_code": "02d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 31.80,
+            "temperature_celsius": 32.89,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "16:00"
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 30.42,
+            "condition": "Clear",
+            "icon_code": "01d",
+            "date_readable": "10:00"
           },
   ]
 }
