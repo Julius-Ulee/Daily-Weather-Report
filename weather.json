@@ -8,13 +8,13 @@
   "icon_code": "01n",
   "temp_min_celsius": 25.82,
   "temp_max_celsius": 26.39,
-  "humidity": 79,
+  "humidity": 82,
   "feels_like_celsius": 26.39,
-  "pressure": 1011,
+  "pressure": 1012,
   "visibility": 10000,
-  "wind_deg": 167,
-  "gust_speed": 0.5,
-  "wind_speed": 0.46,
+  "wind_deg": 158,
+  "gust_speed": 0.53,
+  "wind_speed": 0.51,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 2,
@@ -31,7 +31,7 @@
             "icon_code": "01d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 31.12,
+            "temperature_celsius": 30.81,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "10:00"
