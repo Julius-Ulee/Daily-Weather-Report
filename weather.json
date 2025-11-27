@@ -4,20 +4,20 @@
   "longitude": 106.8461,
   "temperature_celsius": 28.71,
   "condition": "Clouds",
-  "condition_description": "scattered clouds",
-  "icon_code": "03n",
+  "condition_description": "few clouds",
+  "icon_code": "02n",
   "temp_min_celsius": 28.71,
   "temp_max_celsius": 29.15,
   "humidity": 74,
   "feels_like_celsius": 32.81,
   "pressure": 1009,
   "visibility": 6000,
-  "wind_deg": 80,
+  "wind_deg": 90,
   "gust_speed": ,
   "wind_speed": 3.09,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 40,
+  "clouds": 20,
   "sunrise_readable": "2025-11-27 05:26:55",
   "sunset_readable": "2025-11-27 17:53:49",
   "timezone": 25200,
@@ -26,12 +26,12 @@
   "wind_direction_text": "East",
   "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 28.26,
+            "temperature_celsius": 28.44,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 26.75,
+            "temperature_celsius": 27.13,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
@@ -56,12 +56,12 @@
             "icon_code": "04d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 33.98,
+            "temperature_celsius": 33.44,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 30.48,
+            "temperature_celsius": 30.34,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
