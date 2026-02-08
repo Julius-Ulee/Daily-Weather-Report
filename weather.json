@@ -26,12 +26,12 @@
   "wind_direction_text": "North",
   "weather_description_with_wind": "Wind Direction: North",
   "forecast_24h": [          {
-            "temperature_celsius": 25.62,
+            "temperature_celsius": 25.64,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 26.48,
+            "temperature_celsius": 26.46,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
