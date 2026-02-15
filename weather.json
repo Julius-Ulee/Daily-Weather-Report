@@ -8,8 +8,8 @@
   "icon_code": "02n",
   "temp_min_celsius": 25.71,
   "temp_max_celsius": 26.39,
-  "humidity": 93,
-  "feels_like_celsius": 26.89,
+  "humidity": 96,
+  "feels_like_celsius": 26.96,
   "pressure": 1009,
   "visibility": 10000,
   "wind_deg": 0,
@@ -26,12 +26,12 @@
   "wind_direction_text": "North",
   "weather_description_with_wind": "Wind Direction: North",
   "forecast_24h": [          {
-            "temperature_celsius": 26.62,
+            "temperature_celsius": 26.60,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 27.97,
+            "temperature_celsius": 27.84,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
