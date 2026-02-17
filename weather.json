@@ -8,18 +8,18 @@
   "icon_code": "03n",
   "temp_min_celsius": 25.71,
   "temp_max_celsius": 26.89,
-  "humidity": 93,
+  "humidity": 92,
   "feels_like_celsius": 26.05,
-  "pressure": 1009,
-  "visibility": 10000,
+  "pressure": 1008,
+  "visibility": 8000,
   "wind_deg": 0,
   "gust_speed": ,
   "wind_speed": 0,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 40,
-  "sunrise_readable": "2026-02-17 05:57:54",
-  "sunset_readable": "2026-02-17 18:15:42",
+  "sunrise_readable": "2026-02-18 05:58:00",
+  "sunset_readable": "2026-02-18 18:15:28",
   "timezone": 25200,
   "coord_lon": 106.8461,
   "coord_lat": -6.3594,
@@ -31,32 +31,32 @@
             "icon_code": "03n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 26.03,
+            "temperature_celsius": 26.06,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 25.80,
+            "temperature_celsius": 26.17,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 26.63,
+            "temperature_celsius": 27.12,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 25.42,
+            "temperature_celsius": 28.59,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 29.18,
+            "temperature_celsius": 30.66,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 25.90,
+            "temperature_celsius": 29.31,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
