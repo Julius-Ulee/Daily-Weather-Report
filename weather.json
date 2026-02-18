@@ -17,7 +17,7 @@
   "wind_speed": 0,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 40,
+  "clouds": 75,
   "sunrise_readable": "2026-02-19 05:58:05",
   "sunset_readable": "2026-02-19 18:15:13",
   "timezone": 25200,
@@ -31,7 +31,7 @@
             "icon_code": "04d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 28.81,
+            "temperature_celsius": 28.55,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "10:00"
