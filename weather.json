@@ -7,10 +7,10 @@
   "condition_description": "scattered clouds",
   "icon_code": "03n",
   "temp_min_celsius": 25.71,
-  "temp_max_celsius": 27.40,
-  "humidity": 86,
+  "temp_max_celsius": 26.94,
+  "humidity": 89,
   "feels_like_celsius": 26.08,
-  "pressure": 1011,
+  "pressure": 1012,
   "visibility": 8000,
   "wind_deg": 0,
   "gust_speed": ,
@@ -31,7 +31,7 @@
             "icon_code": "03n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 26.47,
+            "temperature_celsius": 26.48,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
