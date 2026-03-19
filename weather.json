@@ -7,7 +7,7 @@
   "condition_description": "overcast clouds",
   "icon_code": "04n",
   "temp_min_celsius": 26.51,
-  "temp_max_celsius": 27.95,
+  "temp_max_celsius": 27.40,
   "humidity": 60,
   "feels_like_celsius": 26.60,
   "pressure": 1010,
@@ -31,7 +31,7 @@
             "icon_code": "10n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 26.34,
+            "temperature_celsius": 26.38,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
