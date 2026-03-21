@@ -13,11 +13,11 @@
   "pressure": 1011,
   "visibility": 10000,
   "wind_deg": 224,
-  "gust_speed": 2.63,
-  "wind_speed": 1.54,
+  "gust_speed": 2.2,
+  "wind_speed": 1.34,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 99,
+  "clouds": 100,
   "sunrise_readable": "2026-03-22 05:56:29",
   "sunset_readable": "2026-03-22 18:02:44",
   "timezone": 25200,
@@ -26,12 +26,12 @@
   "wind_direction_text": "Southwest",
   "weather_description_with_wind": "Wind Direction: Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 25.50,
+            "temperature_celsius": 26.18,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 26.97,
+            "temperature_celsius": 26.87,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
