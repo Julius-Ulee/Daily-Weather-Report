@@ -12,9 +12,9 @@
   "feels_like_celsius": 26.37,
   "pressure": 1009,
   "visibility": 10000,
-  "wind_deg": 164,
-  "gust_speed": 1.67,
-  "wind_speed": 1.1,
+  "wind_deg": 167,
+  "gust_speed": 1.4,
+  "wind_speed": 1.03,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 100,
@@ -31,7 +31,7 @@
             "icon_code": "04n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 27.00,
+            "temperature_celsius": 27.02,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
